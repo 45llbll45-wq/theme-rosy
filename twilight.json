@@ -29,7 +29,7 @@
             "id": "squar_photo_bg_image_size",
             "type": "items",
             "format": "dropdown-list",
-            "label": "طريقة عرض الصور في قسم قائمة عناصر ",
+            "label": "طريقة عرض الصور في قسم قائمة عناصر",
             "description": null,
             "labelHTML": null,
             "icon": "sicon-list",
@@ -232,10 +232,10 @@
                     "value": "<div style='margin: -24px -20px 20px'><img class='w-full' src='https://cdn.salla.network/images/themes/raed/preview-images/images-slider-enhancement.png?v=1.1'></div>"
                 },
                 {
-                  "type": "static",
-                  "format": "description",
-                  "id": "enhance-slider-note",
-                  "value": "<div style='background-color: #ddedff;color: #0a5a90;padding: 16px 20px;font-size: 14px;border-radius: 4px; margin: 0 0 30px;'>هذا العنصر غير مناسب لعرض البنرات، يمكنك استخدام عنصر <strong>صور متحركة</strong> بدلاً منه لتظهر صورة البنر بشكل كامل</div>"
+                    "type": "static",
+                    "format": "description",
+                    "id": "enhance-slider-note",
+                    "value": "<div style='background-color: #ddedff;color: #0a5a90;padding: 16px 20px;font-size: 14px;border-radius: 4px; margin: 0 0 30px;'>هذا العنصر غير مناسب لعرض البنرات، يمكنك استخدام عنصر <strong>صور متحركة</strong> بدلاً منه لتظهر صورة البنر بشكل كامل</div>"
                 },
                 {
                     "id": "slides",
